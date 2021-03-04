@@ -9,6 +9,6 @@ Contribute in making the UI before coming up with a fake api and do connections.
 
 # Images Sample
 <img src="https://github.com/Heinirich/kafuco/blob/main/assets/screenshot1.png" alt="drawing" style="width:100px!important;height:150px!important;"/>
-![ScreenShot](https://github.com/Heinirich/kafuco/blob/main/assets/screenshot2.png =100x20)
+![ScreenShot](https://github.com/Heinirich/kafuco/blob/main/assets/screenshot2.png)
 
 
